@@ -106,11 +106,15 @@ function showInLightbox(flickrImageId) {
 
 
   function showButton(e) {
-    e.style.display='block';
+    e.style.color='black';
+    e.style.backgroundColor="white";
+    e.style.border="1px solid black";
   };
 
   function hideButton(e) {
-    e.style.display='none';
+    e.style.color='transparent';
+    e.style.backgroundColor="transparent";
+    e.style.border="transparent";
   };
 };
 

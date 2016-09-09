@@ -200,6 +200,7 @@ img:hover {
   width: 120px;
   cursor: pointer;
   display: inline-block;
+  height: 100px;
 }
 
 .lb-arrow:hover {
@@ -217,7 +218,6 @@ img:hover {
   display: inline-block;
   padding-right: 5px;
   border-radius: 15px 0 0 15px;
-  height: 100px; /* test this*/
 }
 
 /* Right arrow indicator */
