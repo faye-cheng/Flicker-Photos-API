@@ -169,7 +169,6 @@ img:hover {
   width:1100px;
   height: 650px;
   border: 1px solid black;
-  border-radius: 12px 12px 0 0;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .lightbox-image img:hover {
@@ -281,7 +280,6 @@ img:hover {
 .lb-title-wrapper {
   border: 1px solid black;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 0 0 10px 10px;
   background-color: white;
   padding-bottom: 10px;
   margin-left: 11px;
@@ -292,4 +290,5 @@ img:hover {
   margin-bottom: 15%;
   z-index: 12;
   width: 1100px;
+  opacity: 0.95;
 }
