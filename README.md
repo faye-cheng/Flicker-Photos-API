@@ -1,4 +1,4 @@
-# PhotoFindr
+# PhotoFinder
 Faye Cheng
 
-Webpage that utilizes the Flickr API to access photo data based on user inputed search terms.
+Webpage that integrates the Flicker photos API to display photos and descritions based on inputed search terms.
